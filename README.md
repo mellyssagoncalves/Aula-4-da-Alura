@@ -1,1 +1,2 @@
 # Aula-4-da-Alura
+# Chat Interativo sobre Sustentabilidade Empresarial 🌱💬 Este projeto é um chat interativo desenvolvido em Python com o objetivo de educar e informar sobre práticas sustentáveis no contexto empresarial. Utilizamos a poderosa API do Google para criar uma experiência envolvente, onde você pode fazer perguntas sobre sustentabilidade e receber respostas imediatas de uma inteligência artificial treinada.
